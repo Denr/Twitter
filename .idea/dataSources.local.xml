@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - twitbd@localhost" uuid="caf074f6-739c-467c-b77a-e0b108ba7595">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>twitbd.*</schema-pattern>
+      <default-schemas>twitbd.*</default-schemas>
+    </data-source>
+  </component>
+</project>

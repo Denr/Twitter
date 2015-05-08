@@ -1,0 +1,29 @@
+.header {
+    height: 100px;
+    width: 100%;
+    padding-top: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: #ffffff;
+    background-color: #55acee;
+}
+
+.twit {
+    background-color: #ffffff;
+    border: 2px solid #e1e8ed;
+    font-size: 20px;
+    width: 50%;
+    margin-bottom: 15px;
+}
+
+.twit:hover {
+    border: 2px solid #55acee;
+}
+
+body {
+    background-image: url("../images/font.png");
+}
+
+.twit_image {
+    width: inherit;
+}
